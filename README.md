@@ -2,10 +2,10 @@
 ## Sections
 * News = news
 * Opinions = opinion (SINGULAR!)
-** Letters to the editor = letters-to-the-editor
-** Editorials = editorials
-** Cartoons = editorial-cartoons
-** OpEds = op-eds
+* * Letters to the editor = letters-to-the-editor
+* * Editorials = editorials
+* * Cartoons = editorial-cartoons
+* * OpEds = op-eds
 * A&E = arts-entertainment
 * Spotlight = spotlight (tag with features as well)
 * Sports = sports
