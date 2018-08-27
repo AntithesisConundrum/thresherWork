@@ -11,6 +11,7 @@
 * Spotlight = spotlight (tag with features as well)
 * Sports = sports
 * _You still need to set the section via the pane on the right!_
+* _When in doubt: go to the website page and use the last part of the URL._ 
 ### Specials
 * top-story: Places the story in the top spot in the section page and section area on homepage.
 * homepage: Places the story in "most popular" area
