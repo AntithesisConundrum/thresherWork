@@ -29,4 +29,4 @@
 * Keep main images relatively horizontal.
 
 ## SnWorks weird things
-* Images should always be ".png" or ".jpg". Things that will break SnWorks: ".svg", ".jpeg", ".JPG", etc.
+* Images should always be ".png", ".jpeg" or ".jpg". Things that will break SnWorks: ".svg", ".JPG", etc.
